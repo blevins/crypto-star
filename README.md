@@ -3,9 +3,13 @@
 
 ### Project Submission Information
 Truffle v5.0.2
+
 OpenZeppelin v2.3.0
+
 TokenName: Star Token
+
 Token Symbol: STK
+
 Address: 0xeD5048b6ad2d58eF54A13A193ed3A2658cbdADe2
 
 ### ToDo
